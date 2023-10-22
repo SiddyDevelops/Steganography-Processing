@@ -1,7 +1,5 @@
 # Steno :loop:
 
-[![GitHub Super-Linter](https://github.com/aloner-pro/Steno/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
-
 ## Ultimate Steganography software:superhero:
 
 The do all steganography application.:grin:<br>
@@ -10,7 +8,6 @@ The do all steganography application.:grin:<br>
 - Images
 - Audio
 - Text
-- ~~Video~~ _To be supported in future version_
 
 >This is an important application especially in today's world.<br>
 > We need to hide the messages rather than only encrypting them.
@@ -46,7 +43,7 @@ In audio steganography only `.wav` files are supported presently. In images are 
 pip install pipenv
 
 # Clone the repo
-git clone https://github.com/aloner-pro/Steno
+git clone https://github.com/SiddyDevelops/Steganography-Processing
 
 # Change directories into the project
 cd Steno
